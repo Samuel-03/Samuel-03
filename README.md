@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Samuel-03
-- 👀 I’m interested in cpp and javascript
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in php and javascript
+- 🌱 I’m currently learning Php
